@@ -1,4 +1,3 @@
-# System
 import java.awt.Color;
 import java.awt.EventQueue;
 import java.awt.Frame;
@@ -19,9 +18,6 @@ public class Login_System {
     private JPasswordField txtPassword;
     protected Frame frmLoginSystem;
 
-    /**
-     * Launch the application.
-     */
     public static void main(String[] args) {
         EventQueue.invokeLater(new Runnable() {
             public void run() {
